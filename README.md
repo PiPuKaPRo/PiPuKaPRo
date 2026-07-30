@@ -5,7 +5,7 @@
 
 <!-- ГИФКА СВЕРХУ (РАСТЯНУТАЯ) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="880" height="120" alt="Matrix" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="880" height="800" alt="Matrix" />
 </p>
 
 <!-- Контакты -->
@@ -43,7 +43,7 @@
 
 <!-- ГИФКА-РАЗДЕЛИТЕЛЬ (РАСТЯНУТАЯ) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="880" height="60" alt="Loading" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="880" height="800" alt="Loading" />
 </p>
 
 ---
@@ -54,14 +54,10 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiPuKaPRo&theme=github-dark&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B9D&currStreakNum=00D4FF&sideNums=00D4FF&sideLabels=00D4FF&dates=B0BEC5" alt="GitHub Streak" width="75%" />
   </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PiPuKaPRo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=00D4FF&title_color=00D4FF&text_color=B0BEC5&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiPuKaPRo&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=B0BEC5&langs_count=8" alt="Top Languages" width="40%" />
-  </p>
+
 </div>
 
 <!-- ГИФКА СНИЗУ (РАСТЯНУТАЯ) -->
 <p align="center" style="margin-top:10px;">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="880" height="100" alt="Matrix" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="880" height="800" alt="Matrix" />
 </p>
