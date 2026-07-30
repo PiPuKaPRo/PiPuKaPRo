@@ -1,14 +1,14 @@
 <!-- Анимированное приветствие -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Привет,+я+Алексей!;Middle+Java+Developer;Люблю+масштабируемые+системы" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Привет,+я+Евгений!;Middle+Java+Developer" alt="Typing SVG" />
 </h1>
 
 <!-- Социальные сети (только ВК, Mail.ru, Gmail, Telegram) -->
 <p align="center">
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:your.email@mail.ru"><img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-  <a href="https://vk.com/your_vk"><img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
+  <a href="https://t.me/wdunfm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:glavnii.homa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:evg_s_zheniy@mail.ru"><img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="https://vk.ru/zdratvuite"><img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
 </p>
 
 ---
@@ -48,22 +48,8 @@ Java-разработчик.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiPuKaPRo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiPuKaPRo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiPuKaPRo&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
-
----
-
-### 📬 Контакты
-
-- Telegram: [@wdunfm](https://t.me/wdunfm)  
-- Gmail: `glavnii.homa@gmail.com`  
-- Mail.ru: `evg_s_zheniy@mail.ru`  
-- ВКонтакте: [https://vk.com/zdratvuite](https://vk.ru/zdratvuite)
 
 ---
 
