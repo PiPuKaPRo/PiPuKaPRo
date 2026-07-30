@@ -1,6 +1,6 @@
 <!-- Анимированное приветствие -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Привет,+я+Евгений!;Java+%2F+Spring+Developer;Пишу+код%2C+который+просто+работает" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Привет,+я+Евгений!;Java+Developer;Пишу+код%2C+который+просто+работает" alt="Typing SVG" />
 </h1>
 
 <!-- Контакты -->
