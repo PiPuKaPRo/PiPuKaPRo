@@ -55,16 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiPuKaPRo&theme=synthwave&hide_border=true" alt="GitHub Streak" width="75%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiPuKaPRo&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiPuKaPRo&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
-<!-- ТРОФЕИ: тема "radical" -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiPuKaPRo&theme=radical&no-frame=true&column=7&margin-w=8" alt="Trophies" width="90%" />
-</p>
-
 <!-- БАННЕР -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:6A00FF,100:0D1117&height=100&section=footer" width="100%"/>
