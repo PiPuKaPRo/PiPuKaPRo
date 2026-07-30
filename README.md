@@ -1,6 +1,6 @@
 <!-- БАННЕР -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=140&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FCEE0A,100:00F0FF&height=140&section=header" width="100%"/>
 </p>
 
 <!-- Анимированное приветствие -->
@@ -57,5 +57,5 @@
 
 <!-- БАННЕР -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FCEE0A,100:0D0D0D&height=100&section=footer" width="100%"/>
 </p>
