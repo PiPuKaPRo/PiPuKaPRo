@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING...;%3E+Евгений+ONLINE;%3E+SYSTEM+READY" alt="Typing SVG" />
 </h1>
 
-<!-- ГИФКА СВЕРХУ (РАСТЯНУТАЯ) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="880" height="800" alt="Matrix" />
-</p>
-
 <!-- Контакты -->
 <p align="center">
   <a href="https://t.me/wdunfm"><img src="https://img.shields.io/badge/▸_TELEGRAM-00D4FF?style=for-the-badge&logo=telegram&logoColor=black&labelColor=0D1117&color=00D4FF" /></a>
@@ -41,10 +36,6 @@
   </p>
 </div>
 
-<!-- ГИФКА-РАЗДЕЛИТЕЛЬ (РАСТЯНУТАЯ) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="880" height="800" alt="Loading" />
-</p>
 
 ---
 
@@ -59,5 +50,5 @@
 
 <!-- ГИФКА СНИЗУ (РАСТЯНУТАЯ) -->
 <p align="center" style="margin-top:10px;">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="880" height="800" alt="Matrix" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="880" height="600" alt="Matrix" />
 </p>
