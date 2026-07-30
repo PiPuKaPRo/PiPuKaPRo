@@ -5,8 +5,8 @@
 
 <!-- Контакты -->
 <p align="center">
-  <a href="https://t.me/wdunfm"><img src="https://img.shields.io/badge/▸_TELEGRAM-00D4FF?style=for-the-badge&logo=telegram&logoColor=black&labelColor=0D1117&color=00D4FF" /></a>
-  <a href="https://vk.ru/zdratvuite"><img src="https://img.shields.io/badge/▸_VKONTAKTE-00D4FF?style=for-the-badge&logo=vk&logoColor=black&labelColor=0D1117&color=00D4FF" /></a>
+  <a href="https://t.me/wdunfm"></a>
+  <a href="https://vk.ru/zdratvuite"></a>
   <br><br>
   <span style="color:#00D4FF; font-family: 'Courier New', monospace; font-weight:bold; text-shadow: 0 0 15px #00D4FF;"> glavnii.homa@gmail.com</span>
   <span style="color:#FF6B9D; font-family: 'Courier New', monospace; text-shadow: 0 0 15px #FF6B9D;">  /  </span>
