@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000" height="400" alt="Matrix" />
 </p>
----
 
 <!-- СТАТИСТИКА: сама подстраивается под тему GitHub (светлая/тёмная) -->
 <p align="center">
