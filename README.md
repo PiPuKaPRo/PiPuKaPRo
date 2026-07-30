@@ -1,6 +1,6 @@
 <!-- Анимированное приветствие -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Привет,+я+Евгений!;Java+Developer;Пишу+код%2C+который+просто+работает" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Привет,+я+Евгений!;Java+Developer" alt="Typing SVG" />
 </h1>
 
 <!-- Контакты -->
@@ -39,12 +39,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000" height="400" alt="Matrix" />
 </p>
-
-<!-- ГИФКА №2 (тот же размер) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="1000" height="400" alt="Coding" />
-</p>
-
 ---
 
 <!-- СТАТИСТИКА: сама подстраивается под тему GitHub (светлая/тёмная) -->
