@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING...;%3E+Евгений+ONLINE;%3E+SYSTEM+READY" alt="Typing SVG" />
 </h1>
 
-<!-- Гифка-разделитель (на всю ширину) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="80" alt="Matrix" style="border-radius:8px; opacity:0.7;" />
-</div>
+<!-- ГИФКА СВЕРХУ (РАСТЯНУТАЯ) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="880" height="120" alt="Matrix" />
+</p>
 
 <!-- Контакты -->
 <p align="center">
@@ -20,36 +20,36 @@
 
 ---
 
-<!-- Неоновая рамка с текстом -->
-<div align="center" style="border: 1px solid rgba(0, 212, 255, 0.3); border-radius: 15px; padding: 25px 30px; margin: 15px 0; background: rgba(13, 17, 23, 0.9); box-shadow: 0 0 40px rgba(0, 212, 255, 0.05), inset 0 0 60px rgba(0, 212, 255, 0.02);">
+<!-- ТЕКСТ "ОБО МНЕ" (БЕЗ ЗАГОЛОВКА) В НЕОНОВОЙ РАМКЕ -->
+<div align="center" style="border: 2px solid rgba(0, 212, 255, 0.4); border-radius: 15px; padding: 25px 35px; background: rgba(13, 17, 23, 0.95); box-shadow: 0 0 60px rgba(0, 212, 255, 0.08), inset 0 0 60px rgba(0, 212, 255, 0.03);">
 
-  <p style="color:#E6EDF3; font-size:16px; font-family: 'Courier New', monospace; line-height:2; margin:0;">
+  <p style="color:#E6EDF3; font-size:16px; font-family: 'Courier New', monospace; line-height:2.2; margin:0; text-align:center;">
     Java-разработчик.<br><br>
     Стэк 
-    <span style="color:#F7A41D; text-shadow: 0 0 15px #F7A41D; font-weight:bold;">Java 17+</span>, 
-    <span style="color:#6DB33F; text-shadow: 0 0 15px #6DB33F; font-weight:bold;">Spring Framework</span> (Boot, Cloud, Data, Security), 
-    <span style="color:#FF6B9D; text-shadow: 0 0 15px #FF6B9D; font-weight:bold;">Apache Kafka</span>, 
-    <span style="color:#336791; text-shadow: 0 0 15px #336791; font-weight:bold;">PostgreSQL</span>, 
-    <span style="color:#2496ED; text-shadow: 0 0 15px #2496ED; font-weight:bold;">Docker</span> и 
-    <span style="color:#326CE5; text-shadow: 0 0 15px #326CE5; font-weight:bold;">Kubernetes</span>.<br>
+    <span style="color:#F7A41D; text-shadow: 0 0 20px #F7A41D; font-weight:bold;">Java 17+</span>, 
+    <span style="color:#6DB33F; text-shadow: 0 0 20px #6DB33F; font-weight:bold;">Spring Framework</span> (Boot, Cloud, Data, Security), 
+    <span style="color:#FF6B9D; text-shadow: 0 0 20px #FF6B9D; font-weight:bold;">Apache Kafka</span>, 
+    <span style="color:#336791; text-shadow: 0 0 20px #336791; font-weight:bold;">PostgreSQL</span>, 
+    <span style="color:#2496ED; text-shadow: 0 0 20px #2496ED; font-weight:bold;">Docker</span> и 
+    <span style="color:#326CE5; text-shadow: 0 0 20px #326CE5; font-weight:bold;">Kubernetes</span>.<br>
     Мониторинг и observability строю с помощью 
-    <span style="color:#F46800; text-shadow: 0 0 15px #F46800; font-weight:bold;">Grafana</span> + Prometheus.<br><br>
+    <span style="color:#F46800; text-shadow: 0 0 20px #F46800; font-weight:bold;">Grafana</span> + Prometheus.<br><br>
     Также имею опыт с 
-    <span style="color:#00599C; text-shadow: 0 0 15px #00599C; font-weight:bold;">C++</span> (высокопроизводительные модули) и 
-    <span style="color:#3776AB; text-shadow: 0 0 15px #3776AB; font-weight:bold;">Python</span> + 
-    <span style="color:#092E20; text-shadow: 0 0 15px #092E20; font-weight:bold;">Django</span> (быстрые прототипы и внутренние инструменты).
+    <span style="color:#00599C; text-shadow: 0 0 20px #00599C; font-weight:bold;">C++</span> (высокопроизводительные модули) и 
+    <span style="color:#3776AB; text-shadow: 0 0 20px #3776AB; font-weight:bold;">Python</span> + 
+    <span style="color:#092E20; text-shadow: 0 0 20px #092E20; font-weight:bold;">Django</span> (быстрые прототипы и внутренние инструменты).
   </p>
 </div>
 
-<!-- Гифка-разделитель (на всю ширину) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="40" alt="Loading" style="border-radius:8px; opacity:0.5;" />
-</div>
+<!-- ГИФКА-РАЗДЕЛИТЕЛЬ (РАСТЯНУТАЯ) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="880" height="60" alt="Loading" />
+</p>
 
 ---
 
-<!-- Статистика в неоновой рамке -->
-<div align="center" style="border: 1px solid rgba(0, 212, 255, 0.2); border-radius: 15px; padding: 20px; background: rgba(13, 17, 23, 0.9); box-shadow: 0 0 30px rgba(0, 212, 255, 0.03);">
+<!-- СТАТИСТИКА В НЕОНОВОЙ РАМКЕ -->
+<div align="center" style="border: 2px solid rgba(255, 107, 157, 0.3); border-radius: 15px; padding: 20px; background: rgba(13, 17, 23, 0.95); box-shadow: 0 0 60px rgba(255, 107, 157, 0.05), inset 0 0 60px rgba(255, 107, 157, 0.02);">
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiPuKaPRo&theme=github-dark&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B9D&currStreakNum=00D4FF&sideNums=00D4FF&sideLabels=00D4FF&dates=B0BEC5" alt="GitHub Streak" width="75%" />
@@ -61,7 +61,7 @@
   </p>
 </div>
 
-<!-- Гифка-футер (на всю ширину) -->
-<div align="center" style="margin-top:10px;">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="60" alt="Matrix" style="border-radius:8px; opacity:0.4;" />
-</div>
+<!-- ГИФКА СНИЗУ (РАСТЯНУТАЯ) -->
+<p align="center" style="margin-top:10px;">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="880" height="100" alt="Matrix" />
+</p>
