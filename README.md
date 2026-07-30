@@ -1,14 +1,11 @@
-<!-- БАННЕР -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FCEE0A,100:00F0FF&height=140&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A00FF,100:00F0FF&height=140&section=header" width="100%"/>
 </p>
 
-<!-- Анимированное приветствие -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Привет,+я+Евгений!;Java+Developer" alt="Typing SVG" />
 </h1>
 
-<!-- Контакты -->
 <p align="center">
   <a href="https://t.me/wdunfm"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://vk.ru/zdratvuite"><img src="https://img.shields.io/badge/-VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
@@ -18,14 +15,12 @@
   <span style="color:#58A6FF; font-family: 'Courier New', monospace; font-weight:bold;">evg_s_zheniy@mail.ru</span>
 </p>
 
-<!-- СЧЁТЧИК ПРОСМОТРОВ (в рамке) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PiPuKaPRo&label=PROFILE+VIEWS&labelColor=0D1117&color=58A6FF&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-<!-- ТЕКСТ "ОБО МНЕ" -->
 <p align="center" style="font-size:16px; line-height:2.2; max-width:800px; margin: 0 auto;">
   Java-разработчик.<br><br>
   Стэк
@@ -45,17 +40,14 @@
 
 ---
 
-<!-- ГИФКА -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000" height="400" alt="Matrix" />
 </p>
 
-<!-- СТАТИСТИКА -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiPuKaPRo&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="75%" />
 </p>
 
-<!-- БАННЕР -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FCEE0A,100:0D0D0D&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:6A00FF,100:0D1117&height=100&section=footer" width="100%"/>
 </p>
