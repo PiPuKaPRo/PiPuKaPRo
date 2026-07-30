@@ -50,5 +50,5 @@
 
 <!-- ГИФКА СНИЗУ (РАСТЯНУТАЯ) -->
 <p align="center" style="margin-top:10px;">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="880" height="600" alt="Matrix" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000" height="400" alt="Matrix" />
 </p>
