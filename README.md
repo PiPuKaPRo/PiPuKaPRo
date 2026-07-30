@@ -1,11 +1,11 @@
 <!-- БАННЕР -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A00FF,100:00F0FF&height=140&section=header&text=EVGENIY&fontSize=42&fontColor=00F0FF&fontAlignY=40&desc=Java%20Developer&descAlignY=65&descSize=16&descColor=FF00E5" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A00FF,100:00F0FF&height=140&section=header&fontSize=42&fontColor=00F0FF&fontAlignY=40&descAlignY=65&descSize=16&descColor=FF00E5" width="100%"/>
 </p>
 
 <!-- Анимированное приветствие -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Привет,+я+Евгений!;Java+Developer;Building+the+future,+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Привет,+я+Евгений!;Java+Developer" alt="Typing SVG" />
 </h1>
 
 <!-- Контакты -->
