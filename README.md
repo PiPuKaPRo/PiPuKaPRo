@@ -44,9 +44,6 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000" height="400" alt="Matrix" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiPuKaPRo&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="75%" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:6A00FF,100:0D1117&height=100&section=footer" width="100%"/>
